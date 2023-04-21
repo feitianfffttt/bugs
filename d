@@ -99,8 +99,8 @@ public class CombinationFinder {
     }
 
     private static class Member {
-        private int position;
-        private int od;
+        private int position;//位置
+        private int od;//误差
 
         public Member(int position, int od) {
             this.position = position;
