@@ -1,2 +1,1 @@
-![image](https://github.com/feitianfffttt/bugs/assets/14038821/8515c4f2-778c-4ec3-b920-12a02d43a467)
-
+![啊啊啊啊啊](https://github.com/feitianfffttt/bugs/assets/14038821/fd2471e5-21c3-4847-809c-629bda5a8332)
